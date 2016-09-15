@@ -1,0 +1,15 @@
+<suite name = "SaleforceTest">
+<test name="Saleforce" prevserve-order="true">
+<classes>
+	<class name="variousWebTestONTestNG.SaleforceTest">
+		<methods>
+			<include name="Saleforctest1"/>
+			<include name="Saleforcetest2"/>
+		</methods>
+	</class>
+</classes>
+</test>
+</suite>
+
+
+
